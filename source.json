@@ -16,7 +16,9 @@
     "packages":[
         {
             "name":"dev.yamachu.oscquery-animation-debugger",
-            "releases":[]
+            "releases":[
+                "https://github.com/yamachu/oscquery-animation-debugger/releases/download/v0.0.1/dev.yamachu.oscquery-animation-debugger-0.0.1.zip"
+            ]
         }
     ]
 }
