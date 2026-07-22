@@ -24,7 +24,8 @@
         {
             "name":"dev.yamachu.package-material-saver",
             "releases":[
-                "https://github.com/yamachu/PackageMaterialSaver/releases/download/v1.0.0/PackageMaterialSaver-1.0.0.zip"
+                "https://github.com/yamachu/PackageMaterialSaver/releases/download/v1.0.0/PackageMaterialSaver-1.0.0.zip",
+                "https://github.com/yamachu/PackageMaterialSaver/releases/download/v2.0.0/PackageMaterialSaver-2.0.0.zip"
             ]
         }
     ]
